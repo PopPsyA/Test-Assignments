@@ -19,8 +19,8 @@ Text of task description.
 1. Second requirement.
 1. And so on...
 
-### Time to complete
-Time is indicated in hours or days. Example: 1-2 days.
+### Time to complete(Optional)
+
 
 ### Screenshots(Optional)
 
