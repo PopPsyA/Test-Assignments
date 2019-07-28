@@ -27,3 +27,5 @@ Text of task description.
 
 
 ### Additional requirements(Optional)
+
+## _**Or you can always write a test task without template.**_
