@@ -6,6 +6,7 @@ Here you can find a list of modern test assigments for any kind of developer.
 - [iOS](https://github.com/Devit951/Test-Assignments/tree/master/iOS/)
 - [JavaScript](https://github.com/Devit951/Test-Assignments/tree/master/javascript/)
 - [PHP](https://github.com/Devit951/Test-Assignments/tree/master/PHP/)
+- [Java](https://github.com/Devit951/Test-Assignments/tree/master/java/)
 
 # How to contribute
 
